@@ -34,6 +34,9 @@ End-to-end sales analytics project using Excel, Power BI, Tableau Public, and My
 Project workbooks, SQL scripts, dashboard screenshots, and supporting documentation will be added to this repository.
 
 ## Author
-Your Name
+Deepak Tharun
+
+## Featured Project
+https://github.com/tharund351-ui/Adventure-Works-Sales-Analysis
 
 **Skills:** Excel | Power Query | Power BI | DAX | Tableau Public | MySQL | SQL
