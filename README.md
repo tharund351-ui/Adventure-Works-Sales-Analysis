@@ -36,7 +36,7 @@ Project workbooks, SQL scripts, dashboard screenshots, and supporting documentat
 ## Author
 Deepak Tharun
 
-## Featured Project
+## Featured Project Link
 https://github.com/tharund351-ui/Adventure-Works-Sales-Analysis
 
 **Skills:** Excel | Power Query | Power BI | DAX | Tableau Public | MySQL | SQL
